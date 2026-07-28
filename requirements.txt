@@ -1,0 +1,5 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=1.5
+# Optional: only needed for `simulate.py train --wandb`
+# wandb>=0.15

@@ -1,0 +1,19 @@
+# Generated simulation artefacts
+data/
+figures/
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+
+# Legacy research notebooks/scripts (untracked, kept locally)
+Cooperative.py
+Competitive.py
+*.ipynb
+
+# Plotting is maintained outside the repository
+plot.py
+
+# Published paper (kept local; cite via its DOI instead)
+1.pdf
