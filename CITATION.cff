@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+type: software
+
+title: "SF allocation for LoRa networks based on Q-Learning"
+abstract: "SF allocation for LoRa networks based on Q-Learning."
+repository-code: "https://github.com/absentio/q-lora"
+license: "GPL-3.0-only"
+
+keywords:
+  - LoRa
+  - LoRaWAN
+  - Q-Learning
+  - spreading factor allocation
+  - resource allocation
+  - wireless networks
+
+authors:
+  - family-names: "Scarvaglieri"
+    given-names: "Antonio"
+  - family-names: "Palazzo"
+    given-names: "Sergio"
+  - family-names: "Busacca"
+    given-names: "Fabio"
+
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Scarvaglieri"
+      given-names: "Antonio"
+    - family-names: "Palazzo"
+      given-names: "Sergio"
+    - family-names: "Busacca"
+      given-names: "Fabio"
+  title: "A Lightweight, Fully-Distributed AI Framework for Energy-Efficient Resource Allocation in LoRa Networks"
+  collection-title: "Proceedings of the 16th IEEE/ACM International Conference on Utility and Cloud Computing"
+  conference:
+    name: "16th IEEE/ACM International Conference on Utility and Cloud Computing"
+    location: "Taormina, Italy"
+    date-start: "2023-12-04"
+  year: 2023
+  publisher:
+    name: "Association for Computing Machinery"
+  doi: "10.1145/3603166.3632564"
